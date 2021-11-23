@@ -1,4 +1,4 @@
-<h1> Projects Page </h1>
+
 <h2> Pacman exercise </h2>
 <img src="./pacman_img.PNG" style="width:220px;height:180px;"/>
 <h3> Description </h3>
