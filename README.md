@@ -1,6 +1,6 @@
 <h1> Projects Page </h1>
 <h2> Pacman exercise </h2>
-<img src="./pacman_img.PNG" style="width:100px;height:80px;"/>
+<img src="./pacman_img.PNG" style="width:200px;height:180px;"/>
 <h3> Description </h3>
   <ul>
     <li> Pacman figures are set to randomly bounce between the edges of the screen. </li>
@@ -10,7 +10,7 @@
   </ul>
   <hr>
 <h2> Eyes exercise </h2>
-  <img src="./eyes_img.PNG" style="width:100px;height:80px;"/>
+  <img src="./eyes_img.PNG" style="width:200px;height:180px;"/>
 <h3> Description </h3>
   <ul>
     <li> The eyes are shaped by managing object properties. </li>
@@ -18,7 +18,7 @@
   </ul>
   <hr>
 <h2> Real Time bus tracker exercise </h2>
-  <img src="./eyes_img.PNG" style="width:100px;height:80px;"/>
+  <img src="./bus_img.PNG" style="width:200px;height:180px;"/>
 <h3> Description </h3>
   <ul>
     <li> The bus tracker map will be displayed on screen. </li>
