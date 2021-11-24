@@ -1,4 +1,5 @@
 <h2><a href="https://gk-acaro.github.io/">Home</a></h2>
+<hr>
 <h2> Pacman exercise </h2>
 
 <img src="./pacman_img.PNG" style="width:220px;height:180px;"/>
