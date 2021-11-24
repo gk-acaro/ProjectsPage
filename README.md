@@ -1,4 +1,4 @@
-<h2><a href="https://gk-acaro.github.io/">Home</a></h2>
+<h1><a href="https://gk-acaro.github.io/">Home</a></h1>
 <hr>
 <h2> Pacman exercise </h2>
 
